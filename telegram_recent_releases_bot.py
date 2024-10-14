@@ -6,11 +6,11 @@ from spotipy import Spotify
 from spotipy.oauth2 import SpotifyOAuth
 
 # Set up your Telegram and Spotify credentials
-api_id = 'YOUR_TELEGRAM_API_ID'
-api_hash = 'YOUR_TELEGRAM_API_HASH'
-bot_token = 'YOUR_TELEGRAM_BOT_TOKEN'
-spotify_client_id = 'YOUR_SPOTIFY_CLIENT_ID'
-spotify_client_secret = 'YOUR_SPOTIFY_CLIENT_SECRET'
+api_id = '10074048'
+api_hash = 'a08b1ed3365fa3b04bcf2bcbf71aff4d'
+bot_token = '6325844279:AAFpFPp-M9rzG5nh5ZDxNTA0GuMUBCkk7oI'
+spotify_client_id = 'bd053f80b2a94d11a4ea5ef4daeb7d41'
+spotify_client_secret = '9bcd116aee624d55b1933b5f2b8ffa4c'
 redirect_uri = 'http://localhost:8888/callback'
 
 # Initialize Telegram client
